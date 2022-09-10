@@ -8,6 +8,8 @@ The Solana dApp Scaffold repos are meant to house good starting scaffolds for ec
 
 # Metaplex NFT
 
+### [DEMO](metaplex-nextjs-starter.vercel.app)
+
 Metaplex Create and Pick a random NFT.
 ![](static/metaplex-nft.png)
 
