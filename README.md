@@ -6,7 +6,7 @@ The Solana dApp Scaffold repos are meant to house good starting scaffolds for ec
 | :-----------------------------: | :------------------------------: |
 | ![](static/scaffold-mobile.png) | ![](static/scaffold-desktop.png) |
 
-# Solana dApp Scaffold Next
+# Metaplex NFT
 
 Metaplex Create and Pick a random NFT.
 ![](static/metaplex-nft.png)
